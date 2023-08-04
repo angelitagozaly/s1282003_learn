@@ -1,5 +1,5 @@
 import plotly.express as px
-import s1282003_learn.statistics.frequenciesOfItems as frequenciesOfItems
+from s1282003_learn.statistics.frequenciesOfItems import frequenciesOfItems
 
 
 class HeatMapItemsFrequencies:
