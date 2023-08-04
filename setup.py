@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="s1282003_learn",
-    version="2023.08.03",
+    version="2023.08.04",
     author="Angelita Gozaly",
     author_email="s1282003@u-aizu.ac.jp",
     description="This software is being developed at the University of Aizu, Aizu-Wakamatsu, Fukushima, Japan",
